@@ -1,0 +1,7 @@
+**/target
+**/target/**
+
+**/test
+**/test/**
+
+**/pom.xml
